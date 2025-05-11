@@ -7,5 +7,5 @@ This PCA process will help to reduce the dimensionality without lost the meaning
 
 Objective
 - Used cleaned data to do PCA
-- Check the varians of PCA
+- Check the variance of PCA
 - Plot the graph for PCA
