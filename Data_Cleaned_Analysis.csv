@@ -1,0 +1,672 @@
+PAGE_NO,TOTAL_ANNOTATION,DEVICE_NAME,CREATED_DATE,PROCESS_STAGE,BROWSER_VERSION,BROWSER_NAME,CATEGORY_ERROR,YEAR,TIME_BIN,IS_WEEKEND,MONTH
+1,1,Desktop,2023-10-29 09:47:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,True,10
+1,1,Desktop,2023-10-29 09:54:00,Passing Parameter,116.0.0.0,Chrome,PassingParam,2023,Morning,True,10
+3,1,Desktop,2023-10-29 22:19:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,True,10
+3,1,Desktop,2023-10-30 00:11:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,False,10
+1,1,Desktop,2023-10-30 08:11:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 08:38:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+2,1,Desktop,2023-10-30 08:49:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+2,1,Desktop,2023-10-30 09:11:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+2,1,Desktop,2023-10-30 09:14:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 09:27:00,Passing Parameter,118.0.0.0,Firefox,PassingParam,2023,Morning,False,10
+1,2,Desktop,2023-10-30 09:37:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,2,Desktop,2023-10-30 09:41:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+2,1,Desktop,2023-10-30 09:48:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+6,1,Desktop,2023-10-30 10:02:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,10
+20,1,Desktop,2023-10-30 10:38:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 10:41:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 10:44:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+2,1,Desktop,2023-10-30 11:05:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 11:58:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-30 12:18:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+1,2,Desktop,2023-10-30 14:37:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,10
+1,4,Desktop,2023-10-30 16:12:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+1,1,Desktop,2023-10-30 16:20:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+6,1,Desktop,2023-10-30 18:22:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Evening,False,10
+2,1,Desktop,2023-10-30 18:51:00,Passing Parameter,118.0.0.0,Edge,PassingParam,2023,Evening,False,10
+1,1,Desktop,2023-10-31 09:03:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-31 09:30:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,4,Desktop,2023-10-31 09:58:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-31 10:04:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,10
+1,1,Desktop,2023-10-31 12:16:00,Passing Parameter,111.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+1,4,Desktop,2023-10-31 13:03:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+1,2,Desktop,2023-10-31 14:41:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,10
+1,1,Desktop,2023-11-01 08:36:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 09:04:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 09:22:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 09:46:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 09:53:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 09:56:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 10:01:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 10:43:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 10:45:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 10:46:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 11:24:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 11:41:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-01 11:43:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-01 12:12:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-01 14:31:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-01 15:33:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-01 16:02:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,3,Desktop,2023-11-01 16:15:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-01 16:18:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-01 22:22:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,False,11
+20,1,Desktop,2023-11-01 22:40:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,False,11
+2,1,Desktop,2023-11-02 10:03:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-02 10:09:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,19,Desktop,2023-11-02 11:01:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,19,Desktop,2023-11-02 11:02:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-02 15:39:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,9,Mobile,2023-11-03 08:13:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-03 10:56:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-03 12:06:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-03 12:28:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-03 12:32:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-03 14:47:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-03 15:25:00,Passing Parameter,118.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-03 16:10:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-03 17:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+2,1,Desktop,2023-11-04 22:56:00,Passing Parameter,118.0.0.0,Edge,PassingParam,2023,night,True,11
+3,1,Desktop,2023-11-05 09:26:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+3,1,Desktop,2023-11-05 09:59:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+3,1,Desktop,2023-11-05 11:19:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+3,1,Desktop,2023-11-05 22:44:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,11
+1,3,Desktop,2023-11-06 12:11:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-06 12:53:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-06 13:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-06 14:16:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-06 14:19:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-06 14:33:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-06 14:38:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-06 14:41:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-06 15:05:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-06 16:08:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-06 16:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-06 16:55:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-06 23:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+3,1,Desktop,2023-11-07 08:26:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,2,Desktop,2023-11-07 11:10:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-07 11:12:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,2,Desktop,2023-11-07 11:12:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,6,Desktop,2023-11-07 13:42:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-07 14:15:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-07 15:20:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-07 19:22:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Evening,False,11
+2,1,Desktop,2023-11-08 08:13:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-08 09:11:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-08 09:14:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+5,1,Desktop,2023-11-08 10:55:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+5,1,Desktop,2023-11-08 11:06:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+4,1,Desktop,2023-11-08 11:39:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-08 12:22:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-08 14:48:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-08 15:31:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-08 15:31:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-08 15:32:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-08 15:34:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,2,Desktop,2023-11-08 15:42:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-09 07:28:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-09 08:25:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-09 08:37:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,7,Desktop,2023-11-09 09:43:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-09 10:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-09 10:48:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-09 11:43:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+2,12,Desktop,2023-11-09 13:06:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-09 13:38:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-09 13:38:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-09 14:28:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-09 15:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-09 21:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+12,1,Desktop,2023-11-09 22:00:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,False,11
+12,1,Desktop,2023-11-09 22:02:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,night,False,11
+12,1,Desktop,2023-11-10 08:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-10 10:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-10 10:06:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-10 10:07:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-10 11:04:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-10 11:53:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+4,1,Desktop,2023-11-10 11:53:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+7,1,Desktop,2023-11-10 13:59:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-10 15:09:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-10 15:11:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-10 15:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-10 16:31:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-10 17:57:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+14,1,Desktop,2023-11-11 03:37:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,night,True,11
+14,1,Desktop,2023-11-11 03:41:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,night,True,11
+4,1,Desktop,2023-11-12 14:16:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,True,11
+1,1,Desktop,2023-11-12 17:32:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,True,11
+1,3,Desktop,2023-11-12 20:25:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Evening,True,11
+2,1,Desktop,2023-11-12 22:03:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,11
+1,3,Desktop,2023-11-13 10:21:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-13 10:42:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-13 11:48:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+14,1,Desktop,2023-11-13 12:14:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-13 15:11:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-13 20:01:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Evening,False,11
+2,4,Desktop,2023-11-13 22:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+1,5,Desktop,2023-11-14 11:20:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,5,Desktop,2023-11-14 11:35:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,5,Desktop,2023-11-14 11:40:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-14 14:36:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-14 14:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-14 15:26:00,Passing Parameter,109.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,12,Desktop,2023-11-14 17:17:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+1,2,Desktop,2023-11-15 08:45:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-15 09:10:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-15 09:19:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-15 09:28:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-15 09:37:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-15 11:44:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-15 12:53:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-15 15:06:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-15 15:11:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-15 15:25:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-15 16:10:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-15 16:12:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-15 16:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-15 16:16:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-15 16:55:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-16 07:48:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-16 07:55:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-16 08:03:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-16 08:16:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-16 08:21:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-16 08:48:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-16 09:07:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-16 10:37:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-16 11:03:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-16 11:25:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,24,Desktop,2023-11-16 12:58:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-16 13:18:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+7,1,Desktop,2023-11-16 13:21:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-16 15:24:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-16 15:27:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+7,1,Desktop,2023-11-16 16:00:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,2,Desktop,2023-11-16 16:32:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,6,Desktop,2023-11-16 16:40:00,Passing Parameter,116.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-16 17:39:00,Passing Parameter,118.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+1,1,Desktop,2023-11-17 09:24:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+1,4,Desktop,2023-11-17 11:04:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+3,6,Desktop,2023-11-18 00:29:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,11
+3,6,Desktop,2023-11-18 06:13:00,Passing Parameter,118.0.0.0,Firefox,PassingParam,2023,Morning,True,11
+2,1,Desktop,2023-11-19 10:05:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,True,11
+1,1,Desktop,2023-11-19 12:44:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,True,11
+2,1,Desktop,2023-11-19 12:47:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,True,11
+1,2,Desktop,2023-11-19 12:54:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,True,11
+1,1,Desktop,2023-11-19 20:26:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,True,11
+1,3,Desktop,2023-11-20 07:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-20 09:14:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-20 09:32:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-20 09:40:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-20 09:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-20 09:57:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-20 10:18:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-20 11:05:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+14,1,Desktop,2023-11-20 11:15:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,4,Desktop,2023-11-20 11:57:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-20 12:27:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+7,1,Desktop,2023-11-20 16:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-20 16:59:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-20 17:08:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+4,1,Desktop,2023-11-20 17:09:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+1,1,Desktop,2023-11-21 07:53:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+14,1,Desktop,2023-11-21 09:08:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,3,Desktop,2023-11-21 09:46:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-21 09:57:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+5,1,Desktop,2023-11-21 10:40:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-21 11:12:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-21 11:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-21 12:31:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 12:44:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+6,8,Desktop,2023-11-21 14:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 14:11:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+2,3,Desktop,2023-11-21 14:17:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 14:19:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 14:24:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 14:26:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+5,1,Desktop,2023-11-21 15:28:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 16:02:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-21 16:24:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 16:26:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 16:34:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-21 17:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+5,1,Desktop,2023-11-21 22:55:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+3,1,Desktop,2023-11-22 04:56:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,night,False,11
+2,1,Desktop,2023-11-22 10:13:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-22 11:04:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-22 11:48:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-22 13:41:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,3,Desktop,2023-11-22 14:33:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-22 15:33:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,2,Desktop,2023-11-22 15:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-22 15:58:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-22 15:58:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-22 16:11:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,1,Desktop,2023-11-22 16:13:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-22 16:24:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-23 06:59:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+5,1,Desktop,2023-11-23 08:40:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-23 10:25:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-23 11:46:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-23 12:02:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-23 12:09:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,4,Desktop,2023-11-23 12:42:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-23 13:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+5,1,Desktop,2023-11-23 15:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-23 15:06:00,Passing Parameter,118.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+4,1,Desktop,2023-11-23 15:22:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-23 15:35:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-24 08:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+14,1,Desktop,2023-11-24 09:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+28,1,Desktop,2023-11-24 09:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-24 09:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-24 09:16:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-24 10:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-24 10:09:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-24 10:44:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-24 10:49:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-24 10:51:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-24 14:52:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+14,1,Desktop,2023-11-24 15:18:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+28,1,Desktop,2023-11-24 15:18:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-24 16:47:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-24 22:08:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+3,1,Desktop,2023-11-25 21:56:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,11
+2,1,Desktop,2023-11-26 00:26:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,11
+1,1,Desktop,2023-11-26 09:26:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+1,1,Desktop,2023-11-26 10:43:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+2,1,Desktop,2023-11-26 10:58:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,True,11
+1,2,Desktop,2023-11-27 08:18:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+4,1,Desktop,2023-11-27 08:25:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+3,2,Desktop,2023-11-27 09:12:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-27 10:50:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-27 11:28:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-27 12:51:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-27 15:21:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-27 16:35:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+3,5,Desktop,2023-11-28 08:53:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 08:59:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-28 09:20:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-28 09:34:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 09:36:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 09:40:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 09:59:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 10:10:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 10:11:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-28 12:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-28 12:47:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,12,Desktop,2023-11-28 14:52:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-28 14:55:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,11
+1,5,Desktop,2023-11-28 15:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-28 17:14:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Evening,False,11
+1,1,Desktop,2023-11-28 22:42:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,11
+1,1,Desktop,2023-11-29 08:25:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-29 09:19:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-29 09:28:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-29 10:21:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-29 10:34:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-29 10:36:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-29 11:02:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,3,Desktop,2023-11-29 11:02:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+2,1,Desktop,2023-11-29 11:15:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-29 11:17:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-29 11:23:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-29 11:37:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-29 12:14:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-29 14:28:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Afternoon,False,11
+2,2,Desktop,2023-11-29 14:45:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-29 16:58:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,2,Desktop,2023-11-29 17:33:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Evening,False,11
+1,1,Desktop,2023-11-30 08:28:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,11
+1,2,Desktop,2023-11-30 10:28:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-30 10:41:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-30 10:48:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+3,1,Desktop,2023-11-30 11:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-30 11:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,11
+1,1,Desktop,2023-11-30 13:10:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+2,1,Desktop,2023-11-30 15:19:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,11
+1,1,Desktop,2023-11-30 18:44:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Evening,False,11
+3,2,Desktop,2023-12-28 20:07:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2023,Evening,False,12
+1,2,Desktop,2023-12-27 15:59:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+1,3,Desktop,2023-12-27 12:53:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+1,3,Desktop,2023-12-26 10:25:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,3,Desktop,2023-12-26 09:48:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,4,Desktop,2023-12-20 15:00:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+2,6,Desktop,2023-12-15 16:52:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+2,3,Desktop,2023-12-14 14:05:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+4,1,Desktop,2023-12-13 19:57:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Evening,False,12
+1,1,Desktop,2023-12-13 19:31:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Evening,False,12
+1,1,Desktop,2023-12-13 19:20:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Evening,False,12
+1,1,Mobile,2023-12-13 16:30:00,Passing Parameter,114.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-13 16:11:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-13 16:09:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-13 15:31:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-13 15:26:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-13 15:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-13 14:59:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-13 14:41:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-13 14:05:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+3,1,Desktop,2023-12-13 12:28:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-13 11:50:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-13 11:11:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,3,Desktop,2023-12-13 11:08:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-13 11:06:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,2,Desktop,2023-12-13 10:20:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+3,1,Desktop,2023-12-13 09:24:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+2,2,Desktop,2023-12-13 09:24:00,Passing Parameter,120.0.0.0,Edge,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-13 08:34:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,2,Desktop,2023-12-13 08:29:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,2,Desktop,2023-12-13 07:56:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-12 21:07:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,12
+4,1,Desktop,2023-12-12 20:35:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Evening,False,12
+2,1,Desktop,2023-12-12 16:16:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+4,16,Desktop,2023-12-12 15:54:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-12 15:27:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-12 14:54:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Afternoon,False,12
+2,5,Desktop,2023-12-12 13:18:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+5,1,Desktop,2023-12-12 10:55:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-12 10:39:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+2,5,Desktop,2023-12-12 10:13:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-12 09:51:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+2,1,Desktop,2023-12-12 09:00:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,3,Mobile,2023-12-12 07:29:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-12 06:40:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-11 15:01:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+5,1,Desktop,2023-12-11 14:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,2,Desktop,2023-12-11 12:06:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+3,1,Desktop,2023-12-11 11:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,4,Desktop,2023-12-11 11:26:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-11 10:25:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+3,4,Desktop,2023-12-11 10:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+3,4,Desktop,2023-12-11 10:05:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,5,Desktop,2023-12-11 09:23:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-11 08:49:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+1,1,Desktop,2023-12-11 08:34:00,Passing Parameter,119.0.0.0,Edge,PassingParam,2023,Morning,False,12
+3,4,Desktop,2023-12-11 08:09:00,Passing Parameter,120.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+4,1,Desktop,2023-12-10 22:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,True,12
+1,3,Desktop,2023-12-10 15:41:00,Passing Parameter,118.0.0.0,Firefox,PassingParam,2023,Afternoon,True,12
+1,3,Mobile,2023-12-09 12:47:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,True,12
+4,1,Desktop,2023-12-09 11:06:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,True,12
+1,1,Desktop,2023-12-09 09:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,True,12
+4,2,Desktop,2023-12-08 21:54:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,night,False,12
+1,5,Desktop,2023-12-08 14:41:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-08 11:15:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-08 10:46:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-08 10:15:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-08 10:14:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-08 10:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+5,1,Desktop,2023-12-08 09:59:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+3,1,Desktop,2023-12-08 06:16:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Morning,False,12
+2,1,Desktop,2023-12-08 04:18:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2023,night,False,12
+6,1,Desktop,2023-12-07 16:06:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-07 16:06:00,Passing Parameter,109.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-07 15:30:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-07 15:24:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+2,1,Desktop,2023-12-07 15:00:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+12,1,Desktop,2023-12-07 14:47:00,Passing Parameter,119.0.0.0,Chrome,PassingParam,2023,Afternoon,False,12
+1,1,Desktop,2023-12-07 11:28:00,Passing Parameter,119.0.0.0,Firefox,PassingParam,2023,Morning,False,12
+1,2,Desktop,2025-01-24 12:08:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,132.0.0.0,Chrome,DocEditor_ReceiveError,2025,Afternoon,False,1
+1,5,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,1,Desktop,2024-10-29 15:37:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> ,131.0.0.0,Firefox,Other,2024,Afternoon,False,10
+2,1,Desktop,2025-02-26 11:21:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,135.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,3,Desktop,2025-01-24 12:05:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,131.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,1
+1,3,Desktop,2025-01-24 12:03:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,131.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,1
+1,2,Mobile,2024-12-19 17:12:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,12
+1,2,Mobile,2024-12-19 17:10:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,12
+1,2,Mobile,2024-12-19 17:11:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,12
+1,2,Mobile,2024-12-19 17:08:00,Doc Editor : Passing Parameter,605.1.15,Safari,PassingParam,2024,Evening,False,12
+1,2,Mobile,2024-12-19 17:09:00,Doc Editor : Passing Parameter,605.1.15,Safari,PassingParam,2024,Evening,False,12
+2,2,Desktop,2025-03-20 09:30:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Morning,False,3
+1,3,Desktop,2025-02-13 10:44:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Chrome,DocEditor_connection_closed,2025,Morning,False,2
+1,1,Desktop,2025-03-05 12:22:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,133.0.0.0,Chrome,Other,2025,Afternoon,False,3
+2,4,Desktop,2024-07-04 09:42:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Morning,False,7
+2,6,Desktop,2024-04-15 16:48:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,4
+1,1,Desktop,2024-03-27 10:06:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,1,Desktop,2024-03-27 10:07:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,5,Desktop,2025-01-24 12:08:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,109.0.0.0,Chrome,DocEditor_ReceiveError,2025,Afternoon,False,1
+2,2,Desktop,2024-01-09 10:58:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Morning,False,1
+1,2,Desktop,2025-03-12 11:37:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,3
+1,1,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,1,Desktop,2024-11-08 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,122.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,11
+1,2,Desktop,2024-02-29 11:07:00,Passing Parameter,121.0.0.0,Chrome,PassingParam,2024,Morning,False,2
+1,1,Desktop,2025-02-13 17:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,135.0.0.0,Firefox,DocEditor_DbUpdateErrEntries,2025,Evening,False,2
+1,4,Desktop,2024-03-20 11:03:00,Passing Parameter,123.0.0.0,Firefox,PassingParam,2024,Morning,False,3
+1,1,Desktop,2025-03-05 12:21:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,133.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,17,Desktop,2025-03-25 12:47:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,2,Desktop,2025-02-06 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,129.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,2
+4,4,Desktop,2025-03-12 11:37:00,Doc Editor : Passing Parameter,134.0.0.0,Chrome,PassingParam,2025,Morning,False,3
+2,2,Desktop,2024-11-11 09:42:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,130.0.0.0,Chrome,DocEditor_connection_closed,2024,Morning,False,11
+1,3,Mobile,2024-12-19 20:55:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,12
+2,2,Desktop,2025-01-09 14:02:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.CommitFailedException: An error was reported while committing a database transaction but it could not be determined whether ,131.0.0.0,Chrome,DocEditor_CommitErrDatabaseTransaction,2025,Afternoon,False,1
+3,3,Desktop,2024-12-15 21:29:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,night,True,12
+2,8,Desktop,2024-12-25 14:01:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Afternoon,False,12
+1,6,Desktop,2024-03-29 12:15:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,4,Desktop,2024-03-21 15:53:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,4,Desktop,2024-03-21 15:52:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,7,Desktop,2024-03-29 10:13:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,10,Desktop,2024-04-16 15:36:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,4
+1,7,Desktop,2024-03-29 15:10:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,3,Desktop,2024-03-29 12:13:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,7,Desktop,2024-03-22 08:40:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,7,Desktop,2024-03-22 08:41:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,3,Desktop,2024-04-15 21:51:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,night,False,4
+1,3,Desktop,2024-04-15 21:50:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,night,False,4
+1,7,Desktop,2024-03-26 14:16:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,4,Desktop,2024-03-21 15:50:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,10,Desktop,2024-03-29 15:11:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+2,1,Desktop,2025-03-26 15:05:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: A connection was successfully establ,136.0.0.0,Firefox,DocEditor_ProviderFailed,2025,Afternoon,False,3
+1,2,Desktop,2024-04-09 09:22:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Morning,False,4
+1,3,Desktop,2024-09-05 12:09:00,Doc Editor : Passing Parameter,127.0.0.0,Chrome,PassingParam,2024,Afternoon,False,9
+2,3,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Afternoon,False,3
+1,4,Desktop,2024-02-08 13:40:00,Passing Parameter,122.0.0.0,Firefox,PassingParam,2024,Afternoon,False,2
+1,2,Desktop,2025-03-26 10:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Morning,False,3
+1,8,Desktop,2024-04-02 11:00:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Morning,False,4
+1,5,Desktop,2025-03-12 14:26:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,1,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,2,Desktop,2025-02-26 11:03:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,135.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,3,Desktop,2024-01-10 12:40:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2024,Afternoon,False,1
+2,3,Desktop,2024-01-04 13:23:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2024,Afternoon,False,1
+2,3,Mobile,2024-12-28 00:26:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,night,True,12
+1,3,Mobile,2024-12-13 13:30:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Afternoon,False,12
+1,3,Mobile,2024-12-12 08:01:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Morning,False,12
+1,3,Mobile,2024-12-13 14:26:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Afternoon,False,12
+2,4,Mobile,2024-12-06 07:57:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Morning,False,12
+2,3,Mobile,2024-12-28 00:30:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,night,True,12
+1,3,Desktop,2024-01-10 12:41:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2024,Afternoon,False,1
+1,3,Desktop,2024-04-02 09:53:00,Passing Parameter,124.0.0.0,Firefox,PassingParam,2024,Morning,False,4
+3,7,Desktop,2025-02-13 10:44:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Edge,DocEditor_connection_closed,2025,Morning,False,2
+1,17,Desktop,2024-11-15 09:36:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,127.0.0.0,Chrome,DocEditor_connection_closed,2024,Morning,False,11
+1,6,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,2,Desktop,2025-03-12 11:37:00,Doc Editor : Passing Parameter,134.0.0.0,Chrome,PassingParam,2025,Morning,False,3
+1,2,Desktop,2025-02-26 11:03:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,3,Mobile,2024-11-26 16:56:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,11
+1,3,Mobile,2024-11-26 16:58:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,11
+1,3,Mobile,2024-11-26 17:09:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 17:08:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 17:04:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 17:01:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 17:05:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 17:00:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,3,Mobile,2024-11-26 16:55:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,11
+1,3,Mobile,2024-11-26 17:02:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Evening,False,11
+1,1,Mobile,2024-12-23 15:19:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,12
+1,1,Mobile,2024-12-23 15:20:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,12
+1,1,Mobile,2024-12-23 15:18:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,12
+1,1,Mobile,2024-12-23 15:37:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,12
+1,3,Desktop,2024-03-11 11:40:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,3,Desktop,2025-02-05 14:39:00,Doc Editor : Passing Parameter,134.0.0.0,Firefox,PassingParam,2025,Afternoon,False,2
+1,3,Desktop,2025-02-05 14:22:00,Doc Editor : Passing Parameter,134.0.0.0,Firefox,PassingParam,2025,Afternoon,False,2
+1,4,Desktop,2025-03-19 15:48:00,Doc Editor : Passing Parameter,134.0.0.0,Chrome,PassingParam,2025,Afternoon,False,3
+1,3,Desktop,2024-04-03 12:40:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,4
+1,3,Desktop,2025-02-05 14:24:00,Doc Editor : Passing Parameter,134.0.0.0,Firefox,PassingParam,2025,Afternoon,False,2
+1,4,Desktop,2025-03-05 12:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,3
+1,4,Desktop,2024-03-21 15:33:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,4,Desktop,2024-03-11 11:52:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,1,Desktop,2025-02-23 12:10:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Mobile,2025-02-25 00:56:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,night,False,2
+1,1,Desktop,2025-02-23 12:02:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-23 12:12:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-23 12:08:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-25 11:44:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+1,1,Desktop,2025-02-23 22:42:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,night,True,2
+1,1,Desktop,2025-02-24 09:01:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+1,1,Desktop,2025-02-23 22:44:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,night,True,2
+1,1,Desktop,2025-02-23 12:05:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-23 12:00:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-23 12:09:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,True,2
+1,1,Desktop,2025-02-25 11:51:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+1,1,Desktop,2025-02-23 22:47:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,night,True,2
+4,2,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Afternoon,False,3
+2,4,Desktop,2025-02-05 09:47:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.CommitFailedException: An error was reported while committing a database transaction but it could not be determined whether ,132.0.0.0,Chrome,DocEditor_CommitErrDatabaseTransaction,2025,Morning,False,2
+1,1,Desktop,2025-01-06 16:07:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Afternoon,False,1
+1,1,Desktop,2025-01-06 16:08:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Afternoon,False,1
+2,4,Desktop,2025-03-24 11:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+2,6,Desktop,2024-09-30 11:02:00,Doc Editor : Passing Parameter,129.0.0.0,Chrome,PassingParam,2024,Morning,False,9
+2,4,Desktop,2024-12-11 21:37:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,night,False,12
+1,1,Desktop,2025-03-05 11:02:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,3,Desktop,2024-12-11 15:18:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,131.0.0.0,Chrome,Other,2024,Afternoon,False,12
+1,2,Desktop,2024-08-02 15:53:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+1,2,Desktop,2024-02-02 09:38:00,Passing Parameter,121.0.0.0,Chrome,PassingParam,2024,Morning,False,2
+1,3,Desktop,2024-12-31 12:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,131.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,12
+1,4,Desktop,2025-02-06 11:56:00,Doc Editor : Passing Parameter,135.0.0.0,Firefox,PassingParam,2025,Morning,False,2
+38,3,Desktop,2025-02-06 13:26:00,Doc Editor : Passing Parameter,135.0.0.0,Firefox,PassingParam,2025,Afternoon,False,2
+1,4,Desktop,2025-02-06 12:01:00,Doc Editor : Passing Parameter,135.0.0.0,Firefox,PassingParam,2025,Afternoon,False,2
+1,3,Desktop,2025-01-06 11:41:00,Doc Editor : Passing Parameter,115.0.0.0,Firefox,PassingParam,2025,Morning,False,1
+1,4,Desktop,2025-02-06 11:57:00,Doc Editor : Passing Parameter,135.0.0.0,Firefox,PassingParam,2025,Morning,False,2
+1,4,Desktop,2025-02-06 11:58:00,Doc Editor : Passing Parameter,135.0.0.0,Firefox,PassingParam,2025,Morning,False,2
+1,3,Desktop,2025-01-06 11:40:00,Doc Editor : Passing Parameter,115.0.0.0,Firefox,PassingParam,2025,Morning,False,1
+1,2,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+2,2,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,2,Mobile,2024-11-06 10:34:00,Doc Editor : Passing Parameter,130.0.0.0,Chrome,PassingParam,2024,Morning,False,11
+1,2,Desktop,2025-03-26 10:00:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+4,2,Desktop,2024-03-13 15:17:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Afternoon,False,3
+1,3,Desktop,2024-12-26 09:51:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2024,Morning,False,12
+1,3,Desktop,2024-12-26 09:53:00,Doc Editor : Passing Parameter,133.0.0.0,Firefox,PassingParam,2024,Morning,False,12
+1,5,Desktop,2025-03-05 12:21:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,133.0.0.0,Chrome,Other,2025,Afternoon,False,3
+2,13,Desktop,2025-03-12 11:37:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,3
+2,2,Desktop,2024-11-07 10:04:00,Doc Editor : Passing Parameter,118.0.0.0,Firefox,PassingParam,2024,Morning,False,11
+1,6,Desktop,2024-11-08 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,130.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,11
+1,13,Desktop,2024-11-11 09:22:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,109.0.0.0,Chrome,DocEditor_ReceiveError,2024,Morning,False,11
+2,3,Mobile,2025-01-21 09:40:00,Doc Editor : Passing Parameter,132.0.0.0,Chrome,PassingParam,2025,Morning,False,1
+2,3,Mobile,2024-10-18 09:45:00,Doc Editor : Passing Parameter,129.0.0.0,Chrome,PassingParam,2024,Morning,False,10
+2,4,Desktop,2025-03-25 09:30:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.CommitFailedException: An error was reported while committing a database transaction but it could not be determined whether ,134.0.0.0,Chrome,DocEditor_CommitErrDatabaseTransaction,2025,Morning,False,3
+2,18,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+3,2,Desktop,2025-02-20 15:44:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,2
+1,4,Desktop,2025-02-18 10:44:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,133.0.0.0,Chrome,DocEditor_ReceiveError,2025,Morning,False,2
+1,2,Desktop,2025-02-26 11:03:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,132.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+2,2,Desktop,2025-03-12 11:37:00,Doc Editor : Passing Parameter,134.0.0.0,Edge,PassingParam,2025,Morning,False,3
+1,2,Desktop,2024-11-08 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,123.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,11
+1,5,Desktop,2025-02-13 10:44:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Chrome,DocEditor_connection_closed,2025,Morning,False,2
+1,2,Desktop,2024-01-10 18:22:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Evening,False,1
+1,6,Desktop,2025-02-06 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,132.0.0.0,Chrome,DocEditor_ReceiveError,2025,Afternoon,False,2
+1,4,Desktop,2024-11-08 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,125.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,11
+3,3,Desktop,2024-11-15 09:36:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,130.0.0.0,Chrome,DocEditor_ReceiveError,2024,Morning,False,11
+3,1,Desktop,2024-08-20 16:29:00,Doc Editor : Passing Parameter,127.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+3,1,Desktop,2024-08-20 16:28:00,Doc Editor : Passing Parameter,127.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+3,1,Desktop,2024-08-20 22:22:00,Doc Editor : Passing Parameter,127.0.0.0,Chrome,PassingParam,2024,night,False,8
+3,1,Desktop,2024-08-20 17:06:00,Doc Editor : Passing Parameter,127.0.0.0,Chrome,PassingParam,2024,Evening,False,8
+1,3,Desktop,2024-11-11 09:22:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,132.0.0.0,Firefox,DocEditor_ReceiveError,2024,Morning,False,11
+1,2,Desktop,2025-02-21 12:45:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Afternoon,False,2
+1,2,Desktop,2025-03-06 11:42:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,3
+1,2,Desktop,2024-04-22 09:04:00,Passing Parameter,115.0.0.0,Firefox,PassingParam,2024,Morning,False,4
+1,2,Desktop,2025-03-26 15:05:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,136.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Afternoon,False,3
+1,2,Desktop,2025-03-25 10:00:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> ,134.0.0.0,Chrome,Other,2025,Morning,False,3
+2,4,Mobile,2024-05-19 14:42:00,Passing Parameter,124.0.0.0,Chrome,PassingParam,2024,Afternoon,True,5
+2,4,Mobile,2024-05-19 14:38:00,Passing Parameter,124.0.0.0,Chrome,PassingParam,2024,Afternoon,True,5
+1,4,Desktop,2025-02-04 15:30:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,132.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,2
+5,1,Desktop,2025-03-05 12:21:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,133.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Afternoon,False,3
+1,4,Desktop,2025-02-24 15:36:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Afternoon,False,2
+2,5,Desktop,2025-02-24 09:34:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+2,5,Desktop,2025-02-24 09:32:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+4,10,Desktop,2025-02-24 09:29:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+3,15,Desktop,2025-02-24 09:32:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+2,5,Desktop,2025-02-24 09:30:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+3,15,Desktop,2025-02-24 09:30:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+3,15,Desktop,2025-02-24 09:31:00,Doc Editor : Passing Parameter,133.0.0.0,Chrome,PassingParam,2025,Morning,False,2
+1,1,Desktop,2025-02-13 10:19:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,135.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,2,Desktop,2025-03-19 10:48:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,4,Desktop,2024-06-13 11:35:00,Passing Parameter,125.0.0.0,Chrome,PassingParam,2024,Morning,False,6
+1,1,Desktop,2025-03-25 12:54:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,19,Desktop,2025-03-26 15:05:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Afternoon,False,3
+1,2,Desktop,2025-02-13 17:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,109.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Evening,False,2
+2,3,Desktop,2024-12-03 15:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,131.0.0.0,Chrome,DocEditor_connection_closed,2024,Afternoon,False,12
+4,3,Desktop,2024-03-13 11:32:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,3,Desktop,2025-03-03 11:01:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,132.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,3,Desktop,2025-03-12 14:26:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,132.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,2,Desktop,2025-02-20 11:53:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2025,Morning,False,2
+1,2,Mobile,2025-02-20 11:57:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2025,Morning,False,2
+1,1,Desktop,2024-07-15 08:33:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Morning,False,7
+1,2,Desktop,2024-03-14 11:28:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,2,Desktop,2024-03-14 10:52:00,Passing Parameter,122.0.0.0,Chrome,PassingParam,2024,Morning,False,3
+1,1,Desktop,2024-07-15 08:34:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Morning,False,7
+1,2,Mobile,2024-08-09 16:11:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+1,2,Mobile,2024-08-09 16:15:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+1,2,Mobile,2024-08-09 16:09:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+1,2,Mobile,2024-08-09 16:08:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+1,1,Mobile,2024-08-09 16:37:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,8
+2,4,Desktop,2024-12-02 15:09:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,126.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,12
+1,3,Desktop,2025-02-27 11:46:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,133.0.0.0,Chrome,DocEditor_ReceiveError,2025,Morning,False,2
+4,4,Desktop,2024-11-27 16:26:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,133.0.0.0,Firefox,DocEditor_ReceiveError,2024,Afternoon,False,11
+1,6,Desktop,2025-02-13 10:19:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+2,28,Desktop,2025-03-04 11:01:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,135.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Morning,False,3
+2,9,Desktop,2025-03-24 11:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,136.0.0.0,Firefox,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,4,Desktop,2024-04-05 15:33:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Afternoon,False,4
+2,3,Desktop,2024-02-05 14:25:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Afternoon,False,2
+1,2,Desktop,2025-01-15 11:27:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Morning,False,1
+1,4,Desktop,2025-01-14 16:17:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Afternoon,False,1
+2,5,Desktop,2025-01-14 12:15:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Afternoon,False,1
+2,2,Desktop,2024-11-06 12:37:00,Doc Editor : Passing Parameter,129.0.0.0,Chrome,PassingParam,2024,Afternoon,False,11
+1,2,Desktop,2025-01-15 11:24:00,Doc Editor : Passing Parameter,131.0.0.0,Chrome,PassingParam,2025,Morning,False,1
+9,2,Desktop,2024-04-24 16:48:00,Passing Parameter,123.0.0.0,Chrome,PassingParam,2024,Afternoon,False,4
+1,1,Mobile,2024-06-14 14:01:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Mobile,2024-06-14 14:02:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Mobile,2024-06-14 14:55:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Desktop,2024-06-16 07:59:00,Doc Editor : Passing Parameter,125.0.0.0,Chrome,PassingParam,2024,Morning,True,6
+1,1,Mobile,2024-06-15 11:22:00,Passing Parameter,604.1,Safari,PassingParam,2024,Morning,True,6
+1,1,Mobile,2024-06-15 11:25:00,Passing Parameter,604.1,Safari,PassingParam,2024,Morning,True,6
+1,1,Mobile,2024-06-14 14:27:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Mobile,2024-06-14 15:04:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Mobile,2024-06-15 11:09:00,Passing Parameter,604.1,Safari,PassingParam,2024,Morning,True,6
+1,1,Mobile,2024-06-15 11:15:00,Passing Parameter,604.1,Safari,PassingParam,2024,Morning,True,6
+1,1,Mobile,2024-06-14 14:26:00,Passing Parameter,604.1,Safari,PassingParam,2024,Afternoon,False,6
+1,1,Desktop,2025-03-19 10:48:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Edge,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,2,Desktop,2024-06-24 12:22:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,6
+1,3,Desktop,2024-11-11 09:22:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,129.0.0.0,Chrome,DocEditor_ReceiveError,2024,Morning,False,11
+2,3,Desktop,2024-07-30 15:22:00,Doc Editor : Passing Parameter,126.0.0.0,Chrome,PassingParam,2024,Afternoon,False,7
+3,2,Desktop,2025-02-24 12:10:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Afternoon,False,2
+1,3,Desktop,2024-12-02 15:09:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Firefox,DocEditor_connection_closed,2024,Afternoon,False,12
+3,9,Desktop,2025-03-26 10:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,5,Desktop,2024-01-22 17:03:00,Passing Parameter,121.0.0.0,Firefox,PassingParam,2024,Evening,False,1
+3,3,Desktop,2025-02-18 10:23:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,132.0.0.0,Chrome,DocEditor_ReceiveError,2025,Morning,False,2
+1,1,Desktop,2024-11-15 09:36:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,109.0.0.0,Chrome,DocEditor_ReceiveError,2024,Morning,False,11
+1,2,Desktop,2025-03-04 10:18:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,13,Desktop,2025-02-20 15:43:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,133.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,2
+1,3,Desktop,2024-01-16 11:23:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Morning,False,1
+2,3,Desktop,2025-03-25 12:54:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Afternoon,False,3
+1,2,Desktop,2024-10-10 13:28:00,Doc Editor : Passing Parameter,129.0.0.0,Chrome,PassingParam,2024,Afternoon,False,10
+1,2,Mobile,2025-03-14 14:39:00,Doc Editor : Passing Parameter,604.1,Safari,PassingParam,2025,Afternoon,False,3
+1,3,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,1,Desktop,2024-01-26 10:18:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Morning,False,1
+1,1,Desktop,2024-01-26 10:17:00,Passing Parameter,120.0.0.0,Chrome,PassingParam,2024,Morning,False,1
+1,9,Desktop,2025-03-26 10:00:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Edge,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,24,Desktop,2025-02-13 10:50:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,132.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,2,Desktop,2024-11-11 09:42:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,129.0.0.0,Chrome,DocEditor_connection_closed,2024,Morning,False,11
+1,1,Mobile,2024-12-04 14:11:00,Doc Editor : Passing Parameter,605.1.15,Safari,PassingParam,2024,Afternoon,False,12
+38,2,Desktop,2024-11-11 09:42:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,130.0.0.0,Chrome,DocEditor_connection_closed,2024,Morning,False,11
+2,1,Desktop,2025-01-06 14:46:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server..,131.0.0.0,Chrome,DocEditor_connection_closed,2025,Afternoon,False,1
+2,3,Desktop,2025-02-24 11:50:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,3,Desktop,2025-03-25 12:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,1,Desktop,2025-03-25 12:47:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Afternoon,False,3
+1,1,Desktop,2024-11-27 16:26:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,121.0.0.0,Chrome,DocEditor_ReceiveError,2024,Afternoon,False,11
+1,5,Desktop,2024-12-18 11:42:00,Doc Editor : Connection Issues during Save Processs - The underlying connection was closed: An unexpected error occurred on a receive..,131.0.0.0,Chrome,DocEditor_ReceiveError,2024,Morning,False,12
+2,5,Desktop,2025-02-13 10:49:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,132.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,2
+1,21,Desktop,2025-03-05 11:02:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,135.0.0.0,Firefox,DocEditor_ConnectionTimeout,2025,Morning,False,3
+3,7,Desktop,2024-12-10 09:50:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,131.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2024,Morning,False,12
+1,2,Desktop,2025-03-24 11:06:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,134.0.0.0,Chrome,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+3,6,Desktop,2025-03-24 11:07:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entit,126.0.0.0,Firefox,DocEditor_DbUpdateErrEntries,2025,Morning,False,3
+1,16,Desktop,2025-03-04 10:18:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,133.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Morning,False,3
+1,15,Desktop,2025-03-26 15:05:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: Connection Timeout Expired.  The tim,134.0.0.0,Chrome,DocEditor_ConnectionTimeout,2025,Afternoon,False,3
+1,2,Desktop,2025-03-25 12:54:00,Doc Editor : Connection Issues during Save Processs - System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> S,134.0.0.0,Chrome,Other,2025,Afternoon,False,3
+1,4,Desktop,2025-03-12 12:15:00,Doc Editor : Passing Parameter,134.0.0.0,Edge,PassingParam,2025,Afternoon,False,3
